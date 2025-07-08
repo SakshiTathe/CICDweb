@@ -8,7 +8,7 @@ deploy this website using github and devops tools
 ELB
 ASG •	is a service that automatically adds or removes EC2 instances based on demand to ensure your application is always available. 
 S3:•	is a cloud-based storage service that allows you to store, manage, and retrieve large amounts of data like files, images, videos, and backups securely and at scale. 
-•	AWS RDS as a managed database service that simplifies database setup, operation, and scaling. 
+•	AWS RDS as a managed database service that simplifies database setup, operation, and scaling.
 DynamoDB
 •	AWS Lambda is a serverless computing service that lets you run code in response to events without managing servers. 
 ECS •	Is a cloud-based container management service that allows you to run and manage Docker containers on a cluster of virtual servers.
